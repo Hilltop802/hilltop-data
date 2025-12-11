@@ -1,9 +1,11 @@
 {
-  "provider": "Irving Energy",
+  "provider": "PROVIDER NAME",
+  "fuel": "propane",
+  "default_season_id": "2025-2026",
   "customer_service": {
     "phone": "",
     "email": ""
   },
-  "notes": "",
-  "last_updated": ""
+  "notes": [],
+  "last_updated": "2025-12-10"
 }
