@@ -1,14 +1,60 @@
 {
-  "provider": "Dead River Company",
-  "effective_date": "",
-  "pricing_tiers": [
+  "provider": "PROVIDER NAME",
+  "fuel": "propane",
+  "seasons": [
     {
-      "tier_name": "",
-      "usage_min": 0,
-      "usage_max": 0,
-      "fixed_rate": null,
-      "variable_rate": null
+      "season_id": "2025-2026",
+      "effective_start": "2025-07-01",
+      "effective_end": "2026-06-30",
+      "created": "2025-12-10",
+
+      "plans": [
+        {
+          "plan_code": "FIXED",
+          "plan_type": "fixed",
+          "label": "Fixed Price Protection",
+          "pricing_tiers": [
+            {
+              "tier_name": "Tier 1",
+              "usage_min": 0,
+              "usage_max": 199,
+              "rate": 0
+            },
+            {
+              "tier_name": "Tier 2",
+              "usage_min": 200,
+              "usage_max": 499,
+              "rate": 0
+            }
+          ]
+        },
+        {
+          "plan_code": "VARIABLE",
+          "plan_type": "variable",
+          "label": "Rack-Plus Variable",
+          "pricing_tiers": [
+            {
+              "tier_name": "Tier 1",
+              "usage_min": 0,
+              "usage_max": 199,
+              "current_rate": 0
+            }
+          ],
+          "history": [
+            {
+              "date": "2025-12-10",
+              "tiers": [
+                {
+                  "tier_name": "Tier 1",
+                  "usage_min": 0,
+                  "usage_max": 199,
+                  "rate": 0
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
-
