@@ -1,31 +1,53 @@
 {
   "provider": "AmeriGas",
-  "effective_date_range": {
-    "start": "2025-07-01",
-    "end": "2026-06-30"
-  },
-  "updated": "2025-12-10",
-  "pricing_tiers": [
+  "fuel": "propane",
+  "seasons": [
     {
-      "tier_name": "1000+ gallons",
-      "usage_min": 1000,
-      "usage_max": null,
-      "fixed_rate": 2.41,
-      "variable_rate": 2.65
-    },
-    {
-      "tier_name": "500-999 gallons",
-      "usage_min": 500,
-      "usage_max": 999,
-      "fixed_rate": 2.51,
-      "variable_rate": 2.75
-    },
-    {
-      "tier_name": "200-499 gallons",
-      "usage_min": 200,
-      "usage_max": 499,
-      "fixed_rate": 2.71,
-      "variable_rate": 2.89
+      "season_id": "2025-2026",
+      "effective_start": "2025-07-01",
+      "effective_end": "2026-06-30",
+      "created": "2025-12-10",
+
+      "plans": [
+        {
+          "plan_code": "FIXED",
+          "plan_type": "fixed",
+          "label": "Fixed Price Protection",
+          "pricing_tiers": [
+            { "usage_min": 1000, "usage_max": null, "rate": 2.41 },
+            { "usage_min": 500,  "usage_max": 999,  "rate": 2.51 },
+            { "usage_min": 200,  "usage_max": 499,  "rate": 2.71 }
+          ]
+        },
+        {
+          "plan_code": "VARIABLE",
+          "plan_type": "variable",
+          "label": "Rack-Plus Variable",
+          "pricing_tiers": [
+            { "usage_min": 1000, "usage_max": null, "current_rate": 2.65 },
+            { "usage_min": 500,  "usage_max": 999,  "current_rate": 2.75 },
+            { "usage_min": 200,  "usage_max": 499,  "current_rate": 2.89 }
+          ],
+          "history": [
+            {
+              "date": "2025-12-10",
+              "tiers": [
+                { "usage_min": 1000, "usage_max": null, "rate": 2.65 },
+                { "usage_min": 500,  "usage_max": 999,  "rate": 2.75 },
+                { "usage_min": 200,  "usage_max": 499,  "rate": 2.89 }
+              ]
+            },
+            {
+              "date": "2025-12-03",
+              "tiers": [
+                { "usage_min": 1000, "usage_max": null, "rate": 2.72 },
+                { "usage_min": 500,  "usage_max": 999,  "rate": 2.82 },
+                { "usage_min": 200,  "usage_max": 499,  "rate": 2.96 }
+              ]
+            }
+          ]
+        }
+      ]
     }
   ]
 }
