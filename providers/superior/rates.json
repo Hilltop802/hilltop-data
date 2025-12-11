@@ -1,0 +1,13 @@
+{
+  "provider": "Superior Propane",
+  "effective_date": "",
+  "pricing_tiers": [
+    {
+      "tier_name": "",
+      "usage_min": 0,
+      "usage_max": 0,
+      "fixed_rate": null,
+      "variable_rate": null
+    }
+  ]
+}
