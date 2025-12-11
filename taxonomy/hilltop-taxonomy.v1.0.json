@@ -1,1 +1,179 @@
-{ "version": "1.0", "categories": [], "tags": [] }
+{
+  "version": "1.0",
+  "categories": [
+    {
+      "name": "Fuel & Energy",
+      "subcategories": [
+        "Propane",
+        "Heating Oil",
+        "Wood Pellets",
+        "Generators",
+        "Solar / Renewable",
+        "Electricity",
+        "Gasoline",
+        "Diesel",
+        "K1 / Kerosene",
+        "Convenience Stores / Gas Stations"
+      ]
+    },
+    {
+      "name": "Home Heating & Cooling",
+      "subcategories": [
+        "HVAC Services",
+        "HVAC Appliances",
+        "Stoves / Fireplaces (Wood, Pellet, Gas)"
+      ]
+    },
+    {
+      "name": "Property Services",
+      "subcategories": [
+        "Landscaping",
+        "Excavation",
+        "Tree Services",
+        "Snow Removal"
+      ]
+    },
+    {
+      "name": "Home Services",
+      "subcategories": [
+        "Roofing",
+        "Siding",
+        "Decks & Outdoor Structures",
+        "Painting",
+        "Electrical",
+        "Plumbing",
+        "Real Estate",
+        "Automotive Services",
+        "Handyman Services",
+        "Cleaning Services",
+        "Trash / Waste Removal",
+        "Windows & Doors"
+      ]
+    },
+    {
+      "name": "Food, Entertainment & Retail",
+      "subcategories": [
+        "Restaurants & Cafes",
+        "Entertainment & Recreation",
+        "Retail Stores",
+        "Grocery & Specialty Foods",
+        "Health & Wellness"
+      ]
+    },
+    {
+      "name": "Professional Services",
+      "subcategories": [
+        "Insurance",
+        "Financial Services",
+        "Accounting & Bookkeeping",
+        "Legal Services",
+        "Marketing & Technology",
+        "Consultants",
+        "Health & Wellness Services"
+      ]
+    },
+    {
+      "name": "Community & Institutions",
+      "subcategories": [
+        "Nonprofits",
+        "Schools & Educational Organizations",
+        "Municipalities & Government",
+        "Chambers of Commerce",
+        "Benefit Groups & Employer Organizations",
+        "Associations & Clubs"
+      ]
+    }
+  ],
+  "tags": [
+    "Hilltop Discount",
+    "Hilltop Promotion",
+    "Local Offices",
+    "Accepts Fuel Assistance",
+    "Fuel Loans",
+    "Hilltop Partnership",
+
+    "Wood Stove",
+    "Pellet Stove",
+    "Gas Stove",
+    "Wood Fireplace",
+    "Pellet Fireplace",
+    "Gas Fireplace",
+    "HVAC Service",
+    "HVAC Sales",
+    "Generator Sales & Service",
+    "Water Heaters",
+    "Chimney Service",
+
+    "Lawn Care",
+    "Hardscaping",
+    "Landscape Design",
+    "Seasonal Cleanups",
+    "Irrigation",
+    "Greenscaping",
+
+    "Tree Removal",
+    "Stump Grinding",
+    "Trimming / Pruning",
+    "Chipping",
+
+    "Driveways",
+    "Site Work",
+    "Trucking",
+    "Crushed Stone",
+    "Septic Systems",
+    "Drainage",
+
+    "Residential Snow Removal",
+    "Commercial Snow Removal",
+    "Sanding",
+    "Shoveling",
+    "Snow Blowing",
+
+    "Roofing",
+    "Siding",
+    "Deck Construction",
+    "Painting",
+    "Electrical",
+    "Plumbing",
+    "Small Repairs",
+    "Light Carpentry",
+    "Appliance Installation",
+    "House Cleaning",
+    "Deep Cleaning",
+    "Move-In / Move-Out Cleaning",
+    "Junk Removal",
+    "Dumpster Rental",
+    "Windows & Doors",
+
+    "Takeout",
+    "Delivery",
+    "Outdoor Seating",
+    "Local Shop",
+    "Seasonal Promotion",
+    "Daily Specials",
+    "Senior Discounts",
+    "Live Music",
+
+    "Licensed & Insured",
+    "Free Consultation",
+    "Virtual Appointments",
+    "Certified",
+    "Veteran-Owned",
+
+    "Charging Station",
+    "Gas Only",
+    "Gas and Diesel",
+    "Propane Tank Exchange",
+    "Deli",
+    "Beer & Wine",
+    "Liquor",
+    "Lottery",
+    "Air",
+    "Car Wash",
+
+    "Weatherization",
+    "Spray Insulation",
+    "Insulation",
+    "Energy Audit"
+  ]
+}
