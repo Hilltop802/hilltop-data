@@ -1,5 +1,5 @@
 {
-  "provider": "PROVIDER NAME",
+  "provider": "Superior Propane",
   "fuel": "propane",
   "seasons": [
     {
@@ -7,7 +7,6 @@
       "effective_start": "2025-07-01",
       "effective_end": "2026-06-30",
       "created": "2025-12-10",
-
       "plans": [
         {
           "plan_code": "FIXED",
@@ -15,16 +14,22 @@
           "label": "Fixed Price Protection",
           "pricing_tiers": [
             {
-              "tier_name": "Tier 1",
-              "usage_min": 0,
-              "usage_max": 199,
-              "rate": 0
+              "tier_name": "1000+ gallons",
+              "usage_min": 1000,
+              "usage_max": null,
+              "rate": 2.37
             },
             {
-              "tier_name": "Tier 2",
+              "tier_name": "500-999 gallons",
+              "usage_min": 500,
+              "usage_max": 999,
+              "rate": 2.47
+            },
+            {
+              "tier_name": "200-499 gallons",
               "usage_min": 200,
               "usage_max": 499,
-              "rate": 0
+              "rate": 2.67
             }
           ]
         },
@@ -34,10 +39,22 @@
           "label": "Rack-Plus Variable",
           "pricing_tiers": [
             {
-              "tier_name": "Tier 1",
-              "usage_min": 0,
-              "usage_max": 199,
-              "current_rate": 0
+              "tier_name": "1000+ gallons",
+              "usage_min": 1000,
+              "usage_max": null,
+              "current_rate": 2.62
+            },
+            {
+              "tier_name": "500-999 gallons",
+              "usage_min": 500,
+              "usage_max": 999,
+              "current_rate": 2.72
+            },
+            {
+              "tier_name": "200-499 gallons",
+              "usage_min": 200,
+              "usage_max": 499,
+              "current_rate": 2.86
             }
           ],
           "history": [
@@ -45,10 +62,22 @@
               "date": "2025-12-10",
               "tiers": [
                 {
-                  "tier_name": "Tier 1",
-                  "usage_min": 0,
-                  "usage_max": 199,
-                  "rate": 0
+                  "tier_name": "1000+ gallons",
+                  "usage_min": 1000,
+                  "usage_max": null,
+                  "rate": 2.62
+                },
+                {
+                  "tier_name": "500-999 gallons",
+                  "usage_min": 500,
+                  "usage_max": 999,
+                  "rate": 2.72
+                },
+                {
+                  "tier_name": "200-499 gallons",
+                  "usage_min": 200,
+                  "usage_max": 499,
+                  "rate": 2.86
                 }
               ]
             }
