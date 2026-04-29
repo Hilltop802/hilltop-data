@@ -1,1 +1,2954 @@
+{
+  "service_area": {
+    "states": [],
+    "zipcodes": [
+      {
+        "zip": "03006",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03013",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03025",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03031",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03032",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03033",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03034",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03036",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03037",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03038",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03042",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03043",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03044",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03045",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03046",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03047",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03048",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03049",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03051",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03052",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03053",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03054",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03055",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03057",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03060",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03061",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03062",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03063",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03064",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03070",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03071",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03076",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03077",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03079",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03082",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03084",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03086",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03087",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03100",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03101",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03102",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03103",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03104",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03106",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03109",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03110",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03155",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03204",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03215",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03216",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03217",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03218",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03220",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03221",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03222",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03223",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03224",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03225",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03226",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03227",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03229",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03230",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03231",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03233",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03234",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03235",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03237",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03240",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03241",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03242",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03243",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03244",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03245",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03246",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03247",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03248",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03249",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03251",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03252",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03253",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03254",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03255",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03256",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03257",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03258",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03259",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03260",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03261",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03262",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03263",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03264",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03266",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03267",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03268",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03269",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03273",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03275",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03276",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03278",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03279",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03280",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03281",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03282",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03284",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03287",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03289",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03290",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03293",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03298",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03299",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03301",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03302",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03303",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03304",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03305",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03307",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03373",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03413",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03422",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03431",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03435",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03440",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03442",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03444",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03445",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03446",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03447",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03448",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03449",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03452",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03455",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03456",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03457",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03458",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03461",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03464",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03465",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03467",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03470",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03561",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03570",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03574",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03575",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03580",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03581",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03582",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03583",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03584",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03585",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03586",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03588",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03593",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03595",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03598",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03601",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03602",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03603",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03604",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03605",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03606",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03607",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03608",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03609",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03634",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03641",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03670",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03675",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03700",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03723",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03733",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03740",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03741",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03743",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03745",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03746",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03748",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03749",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03750",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03751",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03752",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03753",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03754",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03755",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03756",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03765",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03766",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03768",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03769",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03770",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03771",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03773",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03774",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03776",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03777",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03779",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03781",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03782",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03784",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03785",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03801",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03802",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03803",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03804",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03805",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03809",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03810",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03811",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03812",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03813",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03814",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03815",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03816",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03817",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03818",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03819",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03820",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03821",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03822",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03823",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03824",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03825",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03826",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03827",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03830",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03832",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03833",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03835",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03836",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03837",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03838",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03839",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03840",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03841",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03842",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03843",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03844",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03845",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03846",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03847",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03848",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03849",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03850",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03851",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03852",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03853",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03854",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03855",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03856",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03857",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03858",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03859",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03860",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03862",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03864",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03865",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03866",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03867",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03868",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03869",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03870",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03872",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03873",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03874",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03875",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03876",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03878",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03882",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03883",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03884",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03885",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03886",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03887",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03890",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03891",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03892",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03894",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03897",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "03902",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "04455",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05001",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05002",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05005",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05009",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05011",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05030",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05031",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05032",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05033",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05034",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05035",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05036",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05037",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05038",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05039",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05040",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05041",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05042",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05043",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05045",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05046",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05047",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05048",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05049",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05050",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05051",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05052",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05053",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05054",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05055",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05056",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05058",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05059",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05060",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05061",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05062",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05065",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05067",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05068",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05070",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05071",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05072",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05073",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05074",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05075",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05076",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05077",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05079",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05080",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05081",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05083",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05084",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05086",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05088",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05089",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05091",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05101",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05141",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05142",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05143",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05144",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05146",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05148",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05149",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05150",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05151",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05152",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05153",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05154",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05155",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05156",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05158",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05159",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05161",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05250",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05251",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05252",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05253",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05254",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05255",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05262",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05301",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05302",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05303",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05304",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05340",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05343",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05345",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05346",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05351",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05353",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05355",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05357",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05359",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05360",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05600",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05601",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05602",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05603",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05604",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05609",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05620",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05629",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05633",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05640",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05641",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05644",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05647",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05648",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05649",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05650",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05651",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05654",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05655",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05657",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05658",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05660",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05661",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05663",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05664",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05666",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05667",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05669",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05670",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05671",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05672",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05673",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05674",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05675",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05676",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05677",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05678",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05679",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05680",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05681",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05682",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05701",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05709",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05723",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05730",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05732",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05733",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05735",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05736",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05737",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05738",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05739",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05741",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05742",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05743",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05744",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05745",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05746",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05747",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05748",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05750",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05751",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05757",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05758",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05759",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05761",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05762",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05763",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05764",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05765",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05768",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05772",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05773",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05774",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05775",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05776",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05777",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05819",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05821",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05822",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05824",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05825",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05828",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05829",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05830",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05832",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05833",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05837",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05838",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05839",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05843",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05845",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05846",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05849",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05850",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05851",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05853",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05854",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05855",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05857",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05858",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05860",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05861",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05862",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05863",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05866",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05867",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05871",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05872",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05873",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05877",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05880",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05893",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05903",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05904",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05906",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      },
+      {
+        "zip": "05907",
+        "providerId": "irving",
+        "fuelType": "propane",
+        "planType": "rack"
+      }
+    ]
+  }
+}
 
