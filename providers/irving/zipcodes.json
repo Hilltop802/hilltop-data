@@ -1,6 +1,31 @@
 {
   "service_area": {
     "states": [],
-    "zipcodes": []
+    "zipcodes": [
+      {
+        "zip": "03006",
+        "providerId": "irving",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03013",
+        "providerId": "irving",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03025",
+        "providerId": "irving",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03031",
+        "providerId": "irving",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      }
+    ]
   }
 }
