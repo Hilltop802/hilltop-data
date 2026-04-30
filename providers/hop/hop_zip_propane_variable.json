@@ -1,0 +1,1393 @@
+{
+  "service_area": {
+    "states": [],
+    "zipcodes": [
+      {
+        "zip": "06023",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06037",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06226",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06230",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06231",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06232",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06233",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06234",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06235",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06237",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06238",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06239",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06241",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06242",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06243",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06244",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06245",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06246",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06247",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06248",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06249",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06250",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06251",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06254",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06255",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06256",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06258",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06259",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06260",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06262",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06263",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06264",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06265",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06266",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06267",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06268",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06269",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06277",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06278",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06279",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06280",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06281",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06282",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06320",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06330",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06331",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06332",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06333",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06334",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06335",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06336",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06339",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06340",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06350",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06351",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06353",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06354",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06355",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06357",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06359",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06360",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06365",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06370",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06371",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06372",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06373",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06374",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06375",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06376",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06377",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06378",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06379",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06380",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06382",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06383",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06384",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06385",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06387",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06388",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06389",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06409",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06412",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06413",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06414",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06415",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06416",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06417",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06419",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06420",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06422",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06423",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06424",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06426",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06438",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06439",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06440",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06441",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06442",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06443",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06447",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06450",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06451",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06454",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06455",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06456",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06457",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06459",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06460",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06461",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06468",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06469",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06470",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06474",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06475",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06480",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06481",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06482",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06484",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06497",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06498",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06601",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06602",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06604",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06605",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06606",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06607",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06608",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06610",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06611",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06612",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06614",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06615",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06650",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06673",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06699",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06801",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06807",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06810",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06820",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06824",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06825",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06828",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06829",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06830",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06831",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06832",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06836",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06840",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06842",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06850",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06851",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06852",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06853",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06854",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06855",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06856",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06857",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06858",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06859",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06860",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06870",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06875",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06876",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06877",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06878",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06879",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06880",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06881",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06883",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06888",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06889",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06890",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06896",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06897",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06901",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06902",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06903",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06904",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06905",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06906",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06907",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06910",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06911",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06912",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06913",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06914",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06920",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06921",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06922",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06925",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06926",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06927",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "06928",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05701",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05730",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05732",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05733",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05734",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05735",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05736",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05737",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05738",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05739",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05740",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05741",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05742",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05743",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05744",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05745",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05747",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05748",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05749",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05751",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05753",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05757",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05758",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05759",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05760",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05761",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05762",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05763",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05764",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05765",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05766",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05769",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05770",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05773",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05774",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05775",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05777",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      },
+      {
+        "zip": "05778",
+        "providerId": "hop",
+        "fuelType": "propane",
+        "planType": "variable"
+      }
+    ]
+  }
+}
