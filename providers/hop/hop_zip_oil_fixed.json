@@ -1,0 +1,8041 @@
+{
+  "service_area": {
+    "states": [],
+    "zipcodes": [
+      {
+        "zip": "06230",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06516",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06231",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06232",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06401",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06278",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06001",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06233",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06030",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06330",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06114",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06403",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06830",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06037",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06524",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06801",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06751",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06137",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06074",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06002",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06112",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06043",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06334",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06096",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06405",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06601",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06602",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06604",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06605",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06606",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06607",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06608",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06610",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06611",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06612",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06614",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06615",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06650",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06673",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06699",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06010",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06011",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06016",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10465",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06234",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06040",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06013",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06085",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06331",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06019",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06020",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06409",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06103",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06332",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06235",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06408",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06410",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06411",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06412",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06370",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06413",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06414",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06415",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06420",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06022",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06237",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06110",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06807",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06238",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06416",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06810",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06811",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06812",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06813",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06814",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06816",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06817",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06239",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06820",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06241",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06417",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06418",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06460",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06422",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06423",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06023",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06705",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06025",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06026",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06424",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06447",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06108",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06118",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06128",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06138",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06512",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06513",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06243",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06333",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06855",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06260",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06277",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06088",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06028",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06244",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06242",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06029",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06259",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06133",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06082",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06083",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06426",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06245",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06255",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06430",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06431",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06432",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06824",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06825",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06828",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06032",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06034",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06475",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06254",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06335",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06829",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06033",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06906",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06831",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06035",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06090",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06838",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06832",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06836",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06870",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06878",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06351",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06246",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06340",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06437",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06250",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06251",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06438",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06439",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06371",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06514",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06517",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06518",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06247",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06350",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06101",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06102",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06104",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06105",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06106",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06115",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06120",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06123",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06126",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06129",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06132",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06134",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06140",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06141",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06142",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06143",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06144",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06145",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06146",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06147",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06150",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06151",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06152",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06153",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06154",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06155",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06156",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06160",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06161",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06167",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06176",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06180",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06183",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06199",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06791",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06440",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06248",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06441",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06484",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06442",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06263",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06419",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06249",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06339",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06759",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06378",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06443",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06041",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06042",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06045",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06268",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06444",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06450",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06451",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06454",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06456",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06762",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06455",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06457",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06459",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06461",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06467",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06468",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06353",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06469",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06354",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06763",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06355",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06359",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06256",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06770",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06051",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06052",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06053",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06050",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06840",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06842",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06843",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06940",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06501",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06502",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06503",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06504",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06505",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06506",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06507",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06508",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06509",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06510",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06511",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06515",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06519",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06520",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06521",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06530",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06531",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06532",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06533",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06534",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06535",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06536",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06537",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06538",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06540",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06320",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06111",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06131",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06404",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06470",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06357",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06471",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06059",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06060",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06473",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06474",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06472",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06580",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06850",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06851",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06852",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06853",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06854",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06856",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06857",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06858",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06859",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06860",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06885",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06360",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10960",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06779",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06795",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06372",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06373",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06477",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06478",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06379",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06781",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06374",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06062",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06479",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06704",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06782",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06376",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06258",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06064",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06480",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06365",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06712",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06375",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06262",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06875",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06896",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06876",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06877",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06879",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06905",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06481",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06066",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06067",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06783",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06266",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06482",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06880",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06264",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06483",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06070",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06081",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06089",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06092",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06071",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06072",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06487",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06073",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06265",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06267",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06488",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06489",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06190",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06490",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06800",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06890",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06908",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06907",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06075",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06076",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06077",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06901",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06902",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06903",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06904",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06910",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06911",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06912",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06913",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06914",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06920",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06921",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06922",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06925",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06926",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06927",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06928",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06950",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06377",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06491",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06497",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06078",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06080",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06093",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06380",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06786",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06778",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06787",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06084",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06790",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06382",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06087",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06383",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06384",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06492",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06493",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06494",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06495",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06794",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06706",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06708",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06710",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06720",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06721",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06722",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06723",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06724",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06725",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06726",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06749",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06701",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06702",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06703",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06385",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06387",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06107",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06117",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06119",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06127",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06091",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06388",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06498",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06803",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06833",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06883",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06680",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06881",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06888",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06889",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06109",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06226",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06279",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06095",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06897",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06987",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06280",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06006",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06716",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06525",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06798",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06281",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05091",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06282",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "06389",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01031",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01037",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01068",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01074",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01082",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01331",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01364",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01366",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01368",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01380",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01420",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01430",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01431",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01432",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01436",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01438",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01440",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01441",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01450",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01451",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01452",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01453",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01460",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01462",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01463",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01464",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01467",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01468",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01469",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01470",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01471",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01472",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01473",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01474",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01475",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01477",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01501",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01503",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01504",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01505",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01506",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01507",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01510",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01515",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01516",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01517",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01518",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01519",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01520",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01522",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01523",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01524",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01525",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01526",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01527",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01529",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01531",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01532",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01534",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01535",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01536",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01537",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01538",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01540",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01541",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01542",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01543",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01545",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01546",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01550",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01560",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01562",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01564",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01566",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01568",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01569",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01570",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01571",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01580",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01581",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01582",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01583",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01585",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01586",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01588",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01590",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01601",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01602",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01603",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01604",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01605",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01606",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01607",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01608",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01609",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01610",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01611",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01612",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01613",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01614",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01615",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01653",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01654",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01655",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01701",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01702",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01703",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01704",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01705",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01718",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01719",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01720",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01721",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01730",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01731",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01740",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01741",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01742",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01745",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01746",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01747",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01748",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01749",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01752",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01754",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01756",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01757",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01760",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01770",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01772",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01773",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01775",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01776",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01778",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01784",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01801",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01803",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01805",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01806",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01807",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01808",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01810",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01812",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01813",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01815",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01821",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01822",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01824",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01826",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01827",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01830",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01831",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01832",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01833",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01834",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01835",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01840",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01841",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01842",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01843",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01844",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01845",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01850",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01851",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01852",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01853",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01854",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01860",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01862",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01863",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01864",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01865",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01866",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01867",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01876",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01879",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01880",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01885",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01886",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01887",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01888",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01889",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01890",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01899",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01901",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01902",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01903",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01904",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01905",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01906",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01907",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01908",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01910",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01913",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01915",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01921",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01922",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01923",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01929",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01930",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01931",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01936",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01937",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01938",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01940",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01944",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01945",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01949",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01950",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01951",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01952",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01960",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01961",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01965",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01966",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01969",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01970",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01971",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01982",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01983",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01984",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01985",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02018",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02019",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02020",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02021",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02025",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02026",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02027",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02030",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02031",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02032",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02035",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02038",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02040",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02041",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02043",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02044",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02045",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02047",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02048",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02050",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02051",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02052",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02053",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02054",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02055",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02056",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02059",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02060",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02061",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02062",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02065",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02066",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02067",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02070",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02071",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02072",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02081",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02090",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02093",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02101",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02102",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02103",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02104",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02105",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02106",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02107",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02108",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02109",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02110",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02111",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02112",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02113",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02114",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02115",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02116",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02117",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02118",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02119",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02120",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02121",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02122",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02123",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02124",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02125",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02126",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02127",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02128",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02129",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02130",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02131",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02132",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02133",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02134",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02135",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02136",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02137",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02138",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02139",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02140",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02141",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02142",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02143",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02144",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02145",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02148",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02149",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02150",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02151",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02152",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02153",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02155",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02156",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02163",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02169",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02170",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02171",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02176",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02180",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02184",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02185",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02186",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02187",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02188",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02189",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02190",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02191",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02196",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02199",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02201",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02203",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02204",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02205",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02206",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02207",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02208",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02209",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02210",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02211",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02212",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02215",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02216",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02217",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02222",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02228",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02238",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02239",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02241",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02266",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02269",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02283",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02284",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02293",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02295",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02297",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02301",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02302",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02303",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02304",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02305",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02322",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02324",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02325",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02327",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02331",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02332",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02333",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02334",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02337",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02338",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02339",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02340",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02341",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02343",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02350",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02351",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02356",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02357",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02358",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02359",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02364",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02367",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02368",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02370",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02375",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02379",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02382",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02420",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02421",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02445",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02446",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02447",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02451",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02452",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02453",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02454",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02455",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02456",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02457",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02458",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02459",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02460",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02461",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02462",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02464",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02465",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02466",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02467",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02468",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02471",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02472",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02474",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02475",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02476",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02477",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02478",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02479",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02481",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02482",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02492",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02493",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02494",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02495",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02703",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02712",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02715",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02718",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02719",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02760",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02761",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02762",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02763",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02764",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02766",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02767",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02768",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02769",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02779",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02780",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02783",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02799",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05501",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05544",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02330",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02344",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02345",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02346",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02347",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02348",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02349",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02355",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02360",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02361",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02362",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02366",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02381",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02532",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02534",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02536",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02537",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02538",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02540",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02541",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02542",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02543",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02553",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02556",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02558",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02559",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02561",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02562",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02563",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02564",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02565",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02571",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02574",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02576",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02601",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02630",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02631",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02632",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02633",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02634",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02635",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02636",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02637",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02638",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02639",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02641",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02642",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02643",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02644",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02645",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02646",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02647",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02648",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02649",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02650",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02651",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02652",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02653",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02655",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02659",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02660",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02661",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02662",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02663",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02664",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02666",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02667",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02668",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02669",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02670",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02671",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02672",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02673",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02675",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02688",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02702",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02717",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02738",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02739",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02770",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01012",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01013",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01020",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01026",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01027",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01032",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01035",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01038",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01039",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01040",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01050",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01053",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01060",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01062",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01070",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01073",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01075",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01085",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01093",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01096",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01098",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01301",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01330",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01337",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01338",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01339",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01340",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01341",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01342",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01344",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01349",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01351",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01354",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01360",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01370",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01373",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01375",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01376",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01378",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "01005",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03076",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03079",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03087",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03811",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03827",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03844",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03858",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03859",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03865",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "03874",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12832",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12837",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12849",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12887",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10910",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10912",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10914",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10915",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10916",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10917",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10918",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10919",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10921",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10922",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10924",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10925",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10926",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10928",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10930",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10932",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10933",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10940",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10941",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10949",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10950",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10953",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10958",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10959",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10963",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10969",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10973",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10975",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10979",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10981",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10985",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10987",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10988",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10990",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10992",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10996",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10997",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "10998",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12015",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12042",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12046",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12051",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12058",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12083",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12087",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12124",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12176",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12184",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12192",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12401",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12402",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12404",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12405",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12407",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12409",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12410",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12411",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12412",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12413",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12414",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12416",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12417",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12418",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12419",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12420",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12422",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12423",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12424",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12427",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12428",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12429",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12431",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12432",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12433",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12435",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12436",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12439",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12440",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12441",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12442",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12443",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12444",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12446",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12448",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12449",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12450",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12451",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12452",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12453",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12454",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12455",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12456",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12457",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12458",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12460",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12461",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12463",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12464",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12465",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12466",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12468",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12469",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12470",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12471",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12472",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12473",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12475",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12477",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12480",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12481",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12482",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12483",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12484",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12485",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12486",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12487",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12489",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12490",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12491",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12492",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12493",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12494",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12495",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12496",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12498",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12501",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12504",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12506",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12507",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12508",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12510",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12511",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12512",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12513",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12514",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12515",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12518",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12520",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12522",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12523",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12524",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12525",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12526",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12527",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12528",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12531",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12533",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12537",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12538",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12540",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12541",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12542",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12543",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12545",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12549",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12550",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12551",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12552",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12553",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12555",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12561",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12564",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12565",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12566",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12569",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12570",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12571",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12572",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12574",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12575",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12578",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12580",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12581",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12582",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12583",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12585",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12586",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12590",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12592",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12594",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12601",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12602",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12603",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12604",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12701",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12719",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12720",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12721",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12722",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12723",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12724",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12725",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12726",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12727",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12729",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12732",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12733",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12734",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12736",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12737",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12738",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12740",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12741",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12742",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12743",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12745",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12747",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12748",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12749",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12750",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12754",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "12775",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "00501",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02801",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02802",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02804",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02806",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02807",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02808",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02809",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02812",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02813",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02814",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02815",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02816",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02817",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02818",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02822",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02823",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02824",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02825",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02826",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02827",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02828",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02829",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02830",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02831",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02832",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02833",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02835",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02836",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02837",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02838",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02839",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02840",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02841",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02842",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02852",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02854",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02857",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02858",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02859",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02860",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02861",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02862",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02863",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02864",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02865",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02871",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02872",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02873",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02874",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02875",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02876",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02877",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02878",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02879",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02880",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02881",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02882",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02883",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02885",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02886",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02887",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02888",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02889",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02891",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02892",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02893",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02894",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02895",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02896",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02898",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02901",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02902",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02903",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02904",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02905",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02906",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02907",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02908",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02909",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02910",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02911",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02912",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02914",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02915",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02916",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02917",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02918",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02919",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02920",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02921",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "02940",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05340",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05762",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05472",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05701",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05730",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05732",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05733",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05735",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05736",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05737",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05738",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05739",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05740",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05741",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05742",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05743",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05744",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05745",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05749",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05751",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05753",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05757",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05758",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05759",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05760",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05761",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05763",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05764",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05765",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05766",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05769",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05770",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05773",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05774",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05775",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05777",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      },
+      {
+        "zip": "05778",
+        "providerId": "hop",
+        "fuelType": "heating_oil",
+        "planType": "fixed"
+      }
+    ]
+  }
+}
